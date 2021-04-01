@@ -12,8 +12,7 @@ $ sudo apt install plymouth-themes
 ```
 ## Step 2:
 Now let's download the package go to:
-https://drive.google.com/file/d/1r5vRnIARO-fbxHX19P7vMHcxxw-4DBCT
-And save the file in the Downloads folder.
+[https://drive.google.com/file/d/1r5vRnIARO-fbxHX19P7vMHcxxw-4DBCT](https://drive.google.com/file/d/1r5vRnIARO-fbxHX19P7vMHcxxw-4DBCT), and save the file in the Downloads folder.
 
 Now use this command:
 ```
