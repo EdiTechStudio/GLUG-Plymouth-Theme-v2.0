@@ -16,11 +16,11 @@ Now install `wget` in case you don't have it.
 ```
 $ sudo apt install wget
 ```
-Now let's download our theme package.
-```
-$ wget -P ~/Downloads https://github.com/EdiTechStudio/Plymouth-Theme-v2.0/raw/main/glug-splash-screen-plymouth_2.0_all.deb
-```
-Now run the command
+Now let's download the package go to:
+https://drive.google.com/file/d/1r5vRnIARO-fbxHX19P7vMHcxxw-4DBCT
+And save the file in the Downloads folder.
+
+Now use this command:
 ```
 $ sudo dpkg -i ~/Downloads/glug-loop-theme_2.0_all.deb
 ```
