@@ -11,11 +11,6 @@ $ sudo apt install plymouth
 $ sudo apt install plymouth-themes
 ```
 ## Step 2:
-Upgrade yourself to root if you are an expert outherwise use sudo before every command! we are assuming you are not upgrading yourself to root.
-Now install `wget` in case you don't have it.
-```
-$ sudo apt install wget
-```
 Now let's download the package go to:
 https://drive.google.com/file/d/1r5vRnIARO-fbxHX19P7vMHcxxw-4DBCT
 And save the file in the Downloads folder.
