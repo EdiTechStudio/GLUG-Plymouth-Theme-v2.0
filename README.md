@@ -7,6 +7,9 @@ First update your system 'apt update' and upgrade it 'apt upgrade' and to satisf
 ```
 $ sudo apt install plymouth
 ```
+```
+$ sudo apt install plymouth-themes
+```
 ## Step 2:
 Upgrade yourself to root if you are an expert outherwise use sudo before every command! we are assuming you are not upgrading yourself to root.
 Now install `wget` in case you don't have it.
@@ -19,7 +22,7 @@ $ wget -P ~/Downloads https://github.com/EdiTechStudio/Plymouth-Theme-v2.0/raw/m
 ```
 Now run the command
 ```
-$ sudo dpkg -i ~/Downloads/glug-splash-screen-plymouth_2.0_all.deb
+$ sudo dpkg -i ~/Downloads/glug-loop-theme_2.0_all.deb
 ```
  And you are done!
 
